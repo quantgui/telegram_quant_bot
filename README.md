@@ -20,5 +20,7 @@ telegram quant bot for cryptocurrency.
 
 我的专属链接：vlink.cc/relax
 
-另外还提供币安注册服务：https://www.marketwebb.me/join?ref=BN2025
+另外还提供币安注册服务：
+免翻链接：https://www.marketwebb.link/join?ref=BN2025
+官方链接：https://www.binance.com/join?ref=BN2025
 邀请码：BN2025，领取新人手续费优惠。
